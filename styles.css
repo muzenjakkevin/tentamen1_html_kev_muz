@@ -5,11 +5,11 @@
 body {
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-size: 3em;
-    font-family: Arial, Helvetica, sans-serif;
     color: #0000ff;
 }
 
@@ -30,10 +30,6 @@ nav ul li {
 ul {
     padding-top: 8px;
     margin: 0;
-}
-
-ol {
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #team-table {
